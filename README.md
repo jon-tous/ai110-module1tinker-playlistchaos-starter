@@ -111,3 +111,9 @@ If you finish early or want an extra challenge, try one of these:
 - Stay curious. The unpredictability is intentional and part of the experience.
 
 When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
+
+---
+
+## Reflection for guiding students
+
+This exercise is a nice primer to expose students to AI-assisted development. Although students without basic fluency in Python, dependency management, etc. may struggle to get started, it serves as a nice starting tinker for the course, setting the basis of the developer's relationship to AI as a partner. As I played with this tinker, I found that AI was helpful in answering questions about what the code's intent, what may be missing including edge cases, and to plan and break down refactor work. Since this is a small project with a straightforward design, the AI did not really mislead me, but it occasionally tried to fix more than what I was focused on at a time, so I rejected a couple suggestions at the time to keep commits focused. When guiding students working through this task, I would encourage them to treat the AI as a conversation partner to help them move toward their goals even if they are not crystal clear.
